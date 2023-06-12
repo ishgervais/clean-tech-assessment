@@ -2,6 +2,18 @@
 
 This is a monorepo containing a Laravel server and a React client, configured with Docker and PostgreSQL.
 
+## Screenshots
+![image](https://github.com/ishgervais/clean-tech-assessment/assets/54812621/17193327-6b6e-47bd-aac3-0ec06976a91d)
+![image](https://github.com/ishgervais/clean-tech-assessment/assets/54812621/39f10020-e99a-4fd3-9e9e-45c7a4f211e6)
+![image](https://github.com/ishgervais/clean-tech-assessment/assets/54812621/e7188c95-97da-4a44-9bfc-869d7a317c19)
+![image](https://github.com/ishgervais/clean-tech-assessment/assets/54812621/f02a992c-d698-440d-a071-4a7710596148)
+![image](https://github.com/ishgervais/clean-tech-assessment/assets/54812621/2d9b7021-047a-42f6-bbe7-198e31ae857b)
+![image](https://github.com/ishgervais/clean-tech-assessment/assets/54812621/38508489-0d60-4168-9276-cc37958c709e)
+![image](https://github.com/ishgervais/clean-tech-assessment/assets/54812621/5516008d-fc4b-47d1-8a6d-07485c99d7a4)
+
+
+
+
 ## Prerequisites
 
 Before getting started, make sure you have the following tools installed on your system:
